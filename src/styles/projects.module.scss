@@ -1,0 +1,79 @@
+.projectPage {
+    h2 {
+        text-transform: uppercase;
+    }
+    .my-gallery-class {
+        width: 100%;
+    }
+}
+.projectsContainer {
+    width: 100%;
+    .my-gallery-class {
+        // width: 100%;
+    }
+    .nodeProject {
+        background: transparent;
+        flex-grow: 1;
+        max-width: calc(33.3333%);
+        width: 100%;
+        .projectContent {
+            padding: 5px;
+            position: relative;
+            .nodeOverlay {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: calc(100% - 10px);
+                height: calc(100% - 10px);
+                background: rgba(255, 178, 0, .6);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: all .3s ease-in-out;
+                opacity: 0;
+                transform: translate(-50%, -50%);
+                a {
+                    font-size: 22px;
+                    text-transform: uppercase;
+                    color: #fff;
+                    text-shadow: 0 2px 5px #000;
+                    position: relative;
+                    &:before {
+                        content: '';
+                        position: absolute;
+                        left: 0;
+                        bottom: 0;
+                        width: 0;
+                        height: 1px;
+                        background: #fff;
+                        transition: all .3s ease-in-out;
+                        box-shadow: 0 2px 5px #000;
+                    }
+                    &:hover {
+                        &:before {
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
+        &:hover {
+            .projectContent {
+                .nodeOverlay {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+// Media Queries
+@media only screen and (max-width: 768px) {
+    .projectsContainer {
+        .nodeProject {
+            max-width: calc(50%);
+        }
+    }
+  
+    
+}

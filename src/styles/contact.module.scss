@@ -1,0 +1,31 @@
+.contactPage {
+    h3 {
+        font-size: 30px;
+    }
+    h4 {
+        font-size: 20px;
+    }
+    ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        padding: 15px 0;
+        li {
+            padding: 0 25px;
+            a {
+                img {
+                    filter: invert(1);
+                    width: 60px;
+                }
+                &:hover {
+                    img {
+                        filter: invert(74%) sepia(63%) saturate(3486%) hue-rotate(2deg) brightness(107%) contrast(106%);
+                    }
+                }
+            }
+        }
+
+    }
+    
+}
