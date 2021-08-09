@@ -1,5 +1,5 @@
 ---
 title: Kylie Morgan
-domain: kyliemorgan.com
+domain: https://www.kyliemorgan.com/
 image: ../images/projects/kyliemorgan.png
 ---

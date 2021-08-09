@@ -1,5 +1,5 @@
 ---
 title: James Brown
-domain: jamesbrown.com/
+domain: http://www.jamesbrown.com/
 image: ../images/projects/jamesbrown.png
 ---

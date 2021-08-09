@@ -1,5 +1,5 @@
 ---
 title: The Blancos
-domain: theblancosmusic.com
+domain: http://www.theblancosmusic.com/
 image: ../images/projects/theblancos.png
 ---

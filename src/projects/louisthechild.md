@@ -1,5 +1,5 @@
 ---
 title: Louis The Child
-domain: louisthechild.com
+domain: https://www.louisthechild.com/
 image: ../images/projects/louisthechild.png
 ---

@@ -11,25 +11,21 @@ export default function index({data}) {
     return (
         <Layout>
             <div className={styles.projectPage}>
-       
                 <Masonry
                     className={styles.projectsContainer} // default ''
                     disableImagesLoaded={false} // default false
                     updateOnEachImageLoad={false} // default false and works only if disableImagesLoaded is false
                 >
-                    
                     {projects.map(project => (
                         <div key={project.id} className={styles.nodeProject}>
                             <div className={styles.projectContent}>
                                 <Img fluid={project.frontmatter.image.childImageSharp.fluid} />
                                 <div className={styles.nodeOverlay}>
-                                    <a href={"//" + project.frontmatter.domain} target="_blank" rel="noreferrer">{[project.frontmatter.title]}</a>
+                                    <a href={project.frontmatter.domain} target="_blank" rel="noreferrer">{[project.frontmatter.title]}</a>
                                 </div>   
                             </div> 
                         </div>
-                        
                     ))}
-                    
                 </Masonry>
             </div>
         </Layout>

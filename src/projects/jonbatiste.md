@@ -1,5 +1,5 @@
 ---
 title: Jon Batiste
-domain: jonbatiste.com/
+domain: https://www.jonbatiste.com/
 image: ../images/projects/jonbatiste.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: YourStyleGuy
-domain: yourstyleguy.com
+domain: https://yourstyleguy.com/
 image: ../images/projects/yourstyleguy.png
 ---
 

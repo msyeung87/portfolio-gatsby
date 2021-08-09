@@ -1,5 +1,5 @@
 ---
 title: YK Osiris
-domain: ykosirismusic.com
+domain: https://www.ykosirismusic.com/
 image: ../images/projects/ykosiris.png
 ---

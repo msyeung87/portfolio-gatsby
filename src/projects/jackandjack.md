@@ -1,5 +1,5 @@
 ---
 title: Jack & Jack
-domain: jackandjackofficial.com/
+domain: https://www.jackandjackofficial.com/
 image: ../images/projects/jackandjack.png
 ---

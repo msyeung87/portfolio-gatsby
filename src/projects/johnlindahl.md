@@ -1,5 +1,5 @@
 ---
 title: John Lindahl
-domain: johnlindahlofficial.com/
+domain: https://www.johnlindahlofficial.com/
 image: ../images/projects/johnlindahl.png
 ---

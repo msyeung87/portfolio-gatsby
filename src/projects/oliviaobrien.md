@@ -1,5 +1,5 @@
 ---
 title: Olivia O'Brien
-domain: oliviaobrienmusic.com
+domain: http://www.oliviaobrienmusic.com/
 image: ../images/projects/oliviaobrien.png
 ---

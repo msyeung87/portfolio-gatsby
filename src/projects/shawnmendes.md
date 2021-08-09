@@ -1,5 +1,5 @@
 ---
 title: Shawn Mendes
-domain: shawnmendesofficial.com
+domain: https://www.shawnmendesofficial.com/
 image: ../images/projects/shawnmendes.png
 ---

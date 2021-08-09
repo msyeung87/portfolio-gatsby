@@ -1,5 +1,5 @@
 ---
 title: Decca Broadway
-domain: deccabroadway.com/
+domain: http://www.deccabroadway.com/
 image: ../images/projects/deccabroadway.png
 ---

@@ -1,5 +1,5 @@
 ---
 title: Whitney Woerz
-domain: whitneywoerz.com
+domain: http://www.whitneywoerz.com/
 image: ../images/projects/whitneywoerz.png
 ---

@@ -1,5 +1,5 @@
 ---
 title: Coi Leray
-domain: coileray.com/
+domain: http://www.coileray.com/
 image: ../images/projects/coileray.png
 ---

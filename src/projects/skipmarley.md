@@ -1,5 +1,5 @@
 ---
 title: Skip Marley
-domain: skipmarley.com
+domain: http://www.skipmarley.com/
 image: ../images/projects/skipmarley.png
 ---

@@ -2,7 +2,6 @@ import React from 'react'
 import Header from './Header'
 import { Link } from 'gatsby'
 import '../styles/global.scss'
-
 import siteLogo from '../images/my-logo.png'
 
 export default function Layout({children}) {

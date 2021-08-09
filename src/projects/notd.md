@@ -1,5 +1,5 @@
 ---
 title: NOTD
-domain: notdmusic.com
+domain: http://www.notdmusic.com/
 image: ../images/projects/notd.png
 ---

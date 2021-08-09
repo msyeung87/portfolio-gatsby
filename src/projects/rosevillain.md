@@ -1,5 +1,5 @@
 ---
 title: Rose Villain
-domain: rosevillainmusic.com
+domain: http://www.rosevillainmusic.com/
 image: ../images/projects/rosevillain.png
 ---

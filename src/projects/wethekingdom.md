@@ -1,5 +1,5 @@
 ---
 title: We The Kingdom
-domain: wethekingdom.com
+domain: http://www.wethekingdom.com/
 image: ../images/projects/wethekingdom.png
 ---

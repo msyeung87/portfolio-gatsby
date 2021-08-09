@@ -1,5 +1,5 @@
 ---
 title: Ceraadi
-domain: ceraadi.com/
+domain: http://www.ceraadi.com/
 image: ../images/projects/ceraadi.png
 ---

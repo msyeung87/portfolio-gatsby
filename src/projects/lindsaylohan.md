@@ -1,5 +1,5 @@
 ---
 title: Lindsay Lohan
-domain: lindsaylohanofficial.com
+domain: http://www.lindsaylohanofficial.com/
 image: ../images/projects/lindsaylohan.png
 ---

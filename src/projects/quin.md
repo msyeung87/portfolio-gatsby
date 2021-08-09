@@ -1,5 +1,5 @@
 ---
 title: Quin
-domain: thequincat.com
+domain: http://www.thequincat.com/
 image: ../images/projects/quin.png
 ---

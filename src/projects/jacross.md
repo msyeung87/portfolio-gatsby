@@ -1,5 +1,5 @@
 ---
 title: Jac Ross
-domain: jacrossmusic.com/
+domain: https://www.jacrossmusic.com/
 image: ../images/projects/jacross.png
 ---

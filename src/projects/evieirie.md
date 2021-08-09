@@ -1,5 +1,5 @@
 ---
 title: Evie Irie
-domain: evieirie.com/
+domain: http://www.evieirie.com/
 image: ../images/projects/evieirie.png
 ---

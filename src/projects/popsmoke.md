@@ -1,5 +1,5 @@
 ---
 title: Pop Smoke
-domain: realpopsmoke.com
+domain: https://www.realpopsmoke.com/
 image: ../images/projects/popsmoke.png
 ---

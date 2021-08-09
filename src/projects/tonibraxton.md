@@ -1,5 +1,5 @@
 ---
 title: Toni Braxton
-domain: tonibraxton.com
+domain: http://www.tonibraxton.com/
 image: ../images/projects/tonibraxton.png
 ---

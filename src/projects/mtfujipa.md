@@ -1,6 +1,6 @@
 ---
 title: Mt. Fuji PA
-domain: mtfujipa.com
+domain: https://www.mtfujipa.com/
 image: ../images/projects/mtfujipa.png
 ---
 

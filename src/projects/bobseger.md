@@ -1,5 +1,5 @@
 ---
 title: Bob Seger
-domain: bobseger.com/
+domain: http://www.bobseger.com/
 image: ../images/projects/bobseger.png
 ---

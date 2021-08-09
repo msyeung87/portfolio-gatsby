@@ -1,5 +1,5 @@
 ---
 title: Alessia Cara
-domain: alessiacara.com/
+domain: https://www.alessiacara.com/
 image: ../images/projects/alessiacara.png
 ---

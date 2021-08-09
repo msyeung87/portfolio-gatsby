@@ -1,5 +1,5 @@
 ---
 title: Lil Mosey
-domain: certifiedhitmaker.com
+domain: http://www.certifiedhitmaker.com/
 image: ../images/projects/lilmosey.png
 ---

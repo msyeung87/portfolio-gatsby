@@ -1,5 +1,5 @@
 ---
 title: Hailee Steinfeld
-domain: haileesteinfeldofficial.com/
+domain: http://www.haileesteinfeldofficial.com/
 image: ../images/projects/haileesteinfeld.png
 ---
