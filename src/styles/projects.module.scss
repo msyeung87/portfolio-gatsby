@@ -30,11 +30,12 @@
                 opacity: 0;
                 transform: translate(-50%, -50%);
                 a {
-                    font-size: 22px;
+                    font-size: 20px;
                     text-transform: uppercase;
                     color: #fff;
                     text-shadow: 0 2px 5px #000;
                     position: relative;
+                    font-weight: 700;
                     &:before {
                         content: '';
                         position: absolute;
