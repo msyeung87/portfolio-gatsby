@@ -9,7 +9,7 @@ export default function about() {
         <Layout>
             <div className={styles.aboutPage}>
                 <StaticImage
-                    src="../images/headshot.jpg"
+                    src="../images/selfieWithMochi.jpg"
                     alt="Matt Yeung headshot"
                     className={styles.headshot}
                 />
